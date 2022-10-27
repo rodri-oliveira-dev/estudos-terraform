@@ -1,6 +1,6 @@
 # Estudos de Terraform
 
-Projeto de estudos sobre Terraform com AWS.
+Projeto de estudos sobre Terraform com AWS. Criando um Cluster EKS, VPC, Subnets e Roles.
 
 ## Para abrir o projeto
 
