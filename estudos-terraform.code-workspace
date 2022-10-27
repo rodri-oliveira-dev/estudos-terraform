@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "terraform.experimentalFeatures.prefillRequiredFields": true
+  },
+  "extensions": {
+    "recommendations": [
+      "4ops.terraform",
+      "itayadler.terraform-ssm",
+      "HashiCorp.terraform"
+    ]
+  }
+}
